@@ -216,21 +216,26 @@ After I/O Fillers
 
 ## Clock Tree Synthesis
 
-``` markdown
-![CTS](images/cts.png)
-```
+<p align="center">
+    <img src="Results/Post_CTS.png" width="600">
+</p>
 
 ## Routing
+Nano Routing
+<p align="center">
+    <img src="Results/Nano_Routing_Pre_CTS.png" width="600">
+</p>
 
-``` markdown
-![Routing](images/routing.png)
-```
+Global Routing
+<p align="center">
+    <img src="Results/Global_Routing.jpeg" width="600">
+</p>
 
 ## Final GDSII Layout
 
-``` markdown
-![Final GDSII](images/final_gdsii.png)
-```
+<p align="center">
+    <img src="Results/GDSII_Image_Virtuoso.jpeg" width="600">
+</p>
 
 ------------------------------------------------------------------------
 
