@@ -42,8 +42,6 @@ integrated circuit.
 
 # RTL-to-GDSII Design Flow
 
-> Replace the image below with your pipeline diagram.
-
 ``` markdown
 ![RTL Flow](images/rtl_flow.png)
 ```
@@ -118,9 +116,7 @@ file suitable for fabrication.
 # Supported ALU Operations
 
   Select               Operation
-  
  --------             -----------
-  
   0000         ->      Addition
   
   0001         ->      Subtraction
@@ -145,24 +141,31 @@ file suitable for fabrication.
 
 # Design Flow Summary
 
-  Stage                       Tool
+  Stage                                ->      Tool
   --------------------------- ----------------------
-  RTL Design                  Verilog HDL
-  RTL Simulation              ModelSim / Simulator
-  Logic Synthesis             Cadence Genus
-  Static Timing Analysis      Cadence Tempus
-  Logical Equivalence Check   Cadence Conformal
-  Floorplanning               Cadence Innovus
-  Placement                   Cadence Innovus
-  Clock Tree Synthesis        Cadence Innovus
-  Routing                     Cadence Innovus
-  GDSII Generation            Cadence Virtuoso
+  RTL Design                           ->      Verilog HDL
+  
+  RTL Simulation                       ->      ModelSim / Simulator
+  
+  Logic Synthesis                      ->      Cadence Genus
+  
+  Static Timing Analysis               ->      Cadence Tempus
+  
+  Logical Equivalence Check            ->      Cadence Conformal
+  
+  Floorplanning                        ->      Cadence Innovus
+  
+  Placement                            ->      Cadence Innovus
+  
+  Clock Tree Synthesis                 ->      Cadence Innovus
+  
+  Routing                              ->      Cadence Innovus
+  
+  GDSII Generation                     ->      Cadence Virtuoso
 
 ------------------------------------------------------------------------
 
 # Results
-
-Add screenshots from your report.
 
 ## RTL Simulation
 
