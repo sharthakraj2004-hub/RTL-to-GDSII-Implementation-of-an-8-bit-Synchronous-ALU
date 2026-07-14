@@ -170,7 +170,7 @@ file suitable for fabrication.
 ## RTL Simulation
 
 <p align="center">
-    <img src="RTL_Simulation.png" width="600">
+    <img src="Results/RTL_Simulation.png" width="600">
 </p>
 
 ## Synthesized Gate-Level Netlist
