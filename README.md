@@ -175,21 +175,21 @@ file suitable for fabrication.
 
 ## Synthesized Gate-Level Netlist
 
-``` markdown
-![Synthesized Netlist](images/netlist.png)
-```
+<p align="center">
+    <img src="Results/Netlist.jpeg" width="600">
+</p>
 
 ## Timing Analysis
 
-``` markdown
-![Timing Analysis](images/timing.png)
-```
+<p align="center">
+    <img src="Results/Timing_Analysis.jpeg" width="600">
+</p>
 
 ## Floorplanning
 
-``` markdown
-![Floorplanning](images/floorplan.png)
-```
+<p align="center">
+    <img src="Results/Floor_Planning.jpeg" width="600">
+</p>
 
 ## Pad Placement
 
