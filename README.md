@@ -115,8 +115,8 @@ file suitable for fabrication.
 
 # Supported ALU Operations
 
-  Select               Operation
- --------             -----------
+  Select       ->      Operation
+
   0000         ->      Addition
   
   0001         ->      Subtraction
@@ -142,7 +142,7 @@ file suitable for fabrication.
 # Design Flow Summary
 
   Stage                                ->      Tool
-  --------------------------- ----------------------
+  
   RTL Design                           ->      Verilog HDL
   
   RTL Simulation                       ->      ModelSim / Simulator
