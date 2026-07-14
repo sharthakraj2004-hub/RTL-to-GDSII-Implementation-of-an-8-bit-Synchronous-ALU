@@ -204,9 +204,8 @@ file suitable for fabrication.
 </p>
 
 ## Placement
-
+Power Rail Connections
 <p align="center">
-    <Power Rail Connections>
     <img src="Results/Power_Rail_Connections.png" width="600">
 </p>
 
