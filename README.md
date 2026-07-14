@@ -193,21 +193,22 @@ file suitable for fabrication.
 
 ## Pad Placement
 
-``` markdown
-![Pad Placement](images/pad_placement.png)
-```
+<p align="center">
+    <img src="Results/Layout_Innovus.png" width="600">
+</p>
 
 ## Power Planning
 
-``` markdown
-![Power Planning](images/power_routing.png)
-```
+<p align="center">
+    <img src="Results/Power_Planning.jpeg" width="600">
+</p>
 
 ## Placement
 
-``` markdown
-![Placement](images/placement.png)
-```
+<p align="center">
+    <Power Rail Connections>
+    <img src="Results/Power_Rail_Connections.png" width="600">
+</p>
 
 ## Clock Tree Synthesis
 
