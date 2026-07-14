@@ -120,14 +120,23 @@ file suitable for fabrication.
   Select   Operation
   -------- -------------
   0000     Addition
+  
   0001     Subtraction
+  
   0010     AND
+  
   0011     OR
+  
   0100     XOR
+  
   0101     NOT
+  
   0110     NAND
+  
   0111     NOR
+  
   1000     Shift Left
+  
   1001     Shift Right
 
 ------------------------------------------------------------------------
