@@ -117,27 +117,29 @@ file suitable for fabrication.
 
 # Supported ALU Operations
 
-  Select   Operation
-  -------- -------------
-  0000     Addition
+  Select               Operation
   
-  0001     Subtraction
+ --------             -----------
   
-  0010     AND
+  0000         ->      Addition
   
-  0011     OR
+  0001         ->      Subtraction
   
-  0100     XOR
+  0010         ->      AND
   
-  0101     NOT
+  0011         ->      OR
   
-  0110     NAND
+  0100         ->      XOR
   
-  0111     NOR
+  0101         ->      NOT
   
-  1000     Shift Left
+  0110         ->      NAND
   
-  1001     Shift Right
+  0111         ->      NOR
+  
+  1000         ->      Shift Left
+  
+  1001         ->      Shift Right
 
 ------------------------------------------------------------------------
 
