@@ -42,9 +42,9 @@ integrated circuit.
 
 # RTL-to-GDSII Design Flow
 
-``` markdown
-![RTL Flow](RTL-GDSII_FLow.png)
-```
+<p align="center">
+    <img src="RTL-GDSII_FLow.png" width="700">
+</p>
 
 The implementation follows the standard industrial ASIC design flow:
 
