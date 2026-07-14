@@ -43,7 +43,7 @@ integrated circuit.
 # RTL-to-GDSII Design Flow
 
 <p align="center">
-    <img src="RTL-GDSII_FLow.png" width="500">
+    <img src="RTL-GDSII_FLow.png" width="600">
 </p>
 
 The implementation follows the standard industrial ASIC design flow:
@@ -169,9 +169,9 @@ file suitable for fabrication.
 
 ## RTL Simulation
 
-``` markdown
-![RTL Simulation](images/rtl_simulation.png)
-```
+<p align="center">
+    <img src="RTL_Simulation.png" width="600">
+</p>
 
 ## Synthesized Gate-Level Netlist
 
