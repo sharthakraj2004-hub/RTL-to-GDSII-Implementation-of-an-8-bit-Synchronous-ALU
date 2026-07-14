@@ -209,6 +209,11 @@ Power Rail Connections
     <img src="Results/Power_Rail_Connections.png" width="600">
 </p>
 
+After I/O Fillers
+<p align="center">
+    <img src="Results/After_IO_Fillers.png" width="600">
+</p>
+
 ## Clock Tree Synthesis
 
 ``` markdown
@@ -267,5 +272,3 @@ Power Rail Connections
 
 Electronics and Communication Engineering\
 KLE Technological University
-
-GitHub: https://github.com/sharthakraj2004-hub
