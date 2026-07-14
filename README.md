@@ -43,7 +43,7 @@ integrated circuit.
 # RTL-to-GDSII Design Flow
 
 ``` markdown
-![RTL Flow](images/rtl_flow.png)
+![RTL Flow](RTL-GDSII_FLow.png)
 ```
 
 The implementation follows the standard industrial ASIC design flow:
